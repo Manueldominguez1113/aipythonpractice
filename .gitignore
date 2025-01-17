@@ -1,0 +1,5 @@
+/.venv1
+/.venv
+/models
+*.wav
+*.mp3
